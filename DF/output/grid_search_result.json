@@ -1,0 +1,5396 @@
+{
+    "ITD": {
+        "1d": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 3,
+                        "num_leaves": 20
+                    },
+                    "score": 0.986972627849886
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.9810536478341506
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.9867083503056489
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 3,
+                        "num_leaves": 20
+                    },
+                    "score": 0.9861917409866223
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 6,
+                        "n_estimators": 150
+                    },
+                    "score": 0.9809682725131659
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.986641947606303
+                }
+            }
+        },
+        "3d": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 3,
+                        "num_leaves": 20
+                    },
+                    "score": 0.9404888950121729
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.9335342480201666
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.9399017737826892
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 3,
+                        "num_leaves": 20
+                    },
+                    "score": 0.9399248255590494
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 6,
+                        "n_estimators": 150
+                    },
+                    "score": 0.9175641538867491
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.9378766218802919
+                }
+            }
+        },
+        "1w": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 10,
+                        "num_leaves": 20
+                    },
+                    "score": 0.7523524084565268
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.8207830582707708
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.8260809855741229
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 10,
+                        "num_leaves": 20
+                    },
+                    "score": 0.7578588904212493
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.8050904898567918
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.8211343936175336
+                }
+            }
+        },
+        "2w": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 10,
+                        "num_leaves": 20
+                    },
+                    "score": 0.25602603019784176
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.414366867899582
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.5795637051815836
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 3,
+                        "num_leaves": 20
+                    },
+                    "score": 0.26271612450195536
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.44119603358619797
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.5604290365825008
+                }
+            }
+        }
+    },
+    "DXG": {
+        "1d": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 10,
+                        "num_leaves": 20
+                    },
+                    "score": 0.9766155458142718
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.959944818958078
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.9773409801277827
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 6,
+                        "num_leaves": 30
+                    },
+                    "score": 0.9760098736959426
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 6,
+                        "n_estimators": 150
+                    },
+                    "score": 0.971640544965149
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.9782573032389731
+                }
+            }
+        },
+        "3d": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 3,
+                        "num_leaves": 20
+                    },
+                    "score": 0.8660676089273238
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 6,
+                        "n_estimators": 150
+                    },
+                    "score": 0.8097107771124602
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.8523622836309117
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 3,
+                        "num_leaves": 20
+                    },
+                    "score": 0.8705686752772197
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.829184319085698
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.8548322628531666
+                }
+            }
+        },
+        "1w": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 3,
+                        "num_leaves": 20
+                    },
+                    "score": 0.6100854164886432
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.677760842150485
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.6865229786381545
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 3,
+                        "num_leaves": 20
+                    },
+                    "score": 0.5998906145202891
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.720944858991057
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.6907378946834194
+                }
+            }
+        },
+        "2w": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 3,
+                        "num_leaves": 20
+                    },
+                    "score": -0.6387891771567482
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": -0.2122287283121964
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.38239532207736737
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 3,
+                        "num_leaves": 20
+                    },
+                    "score": -0.6433172493497104
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": -0.1602072460833175
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.32927911818945044
+                }
+            }
+        }
+    },
+    "OGC": {
+        "1d": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 6,
+                        "num_leaves": 20
+                    },
+                    "score": 0.7590333303259514
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": -3.8398399188514176
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.9937121869317973
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 10,
+                        "num_leaves": 20
+                    },
+                    "score": 0.715311724228834
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": -3.8353500779044065
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.9942927754914299
+                }
+            }
+        },
+        "3d": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 10,
+                        "num_leaves": 20
+                    },
+                    "score": -0.29170242933711843
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": -4.05370786381243
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.9221936750169507
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 10,
+                        "num_leaves": 20
+                    },
+                    "score": -0.36322609690355034
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": -4.103085548086553
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.9215278331137853
+                }
+            }
+        },
+        "1w": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 10,
+                        "num_leaves": 20
+                    },
+                    "score": -4.179731170118529
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 6,
+                        "n_estimators": 150
+                    },
+                    "score": -11.471362021131233
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.8155948577317855
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 10,
+                        "num_leaves": 20
+                    },
+                    "score": -4.0750334579201235
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": -4.865261047507202
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.8164324129375562
+                }
+            }
+        },
+        "2w": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 10,
+                        "num_leaves": 20
+                    },
+                    "score": -8.469281531908017
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.21600761384423628
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.7126241257436221
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 10,
+                        "num_leaves": 20
+                    },
+                    "score": -8.8494321521015
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": -0.11572763085523596
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.7101947712131707
+                }
+            }
+        }
+    },
+    "ELC": {
+        "1d": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 6,
+                        "num_leaves": 20
+                    },
+                    "score": -4.08746064782071
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": -3.86045925090918
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": -2.818813629754757
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 6,
+                        "num_leaves": 30
+                    },
+                    "score": -4.103037536609009
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 6,
+                        "n_estimators": 150
+                    },
+                    "score": -3.982868449641214
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": -2.8690727286795688
+                }
+            }
+        },
+        "3d": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 6,
+                        "num_leaves": 20
+                    },
+                    "score": -5.160232636602394
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 6,
+                        "n_estimators": 150
+                    },
+                    "score": -5.020618108885787
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": -3.457389522227591
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 6,
+                        "num_leaves": 20
+                    },
+                    "score": -5.120346570677868
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 6,
+                        "n_estimators": 150
+                    },
+                    "score": -5.188662260807032
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": -3.621162107127211
+                }
+            }
+        },
+        "1w": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 6,
+                        "num_leaves": 20
+                    },
+                    "score": -9.140885409194404
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 6,
+                        "n_estimators": 150
+                    },
+                    "score": -5.40798802181081
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": -4.9290523884136155
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 6,
+                        "num_leaves": 20
+                    },
+                    "score": -9.269337249833606
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 6,
+                        "n_estimators": 150
+                    },
+                    "score": -4.661838588379184
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": -5.220405621113769
+                }
+            }
+        },
+        "2w": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 3,
+                        "num_leaves": 20
+                    },
+                    "score": -17.043455090713252
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": -17.40166651704454
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": -10.297509852520125
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 3,
+                        "num_leaves": 20
+                    },
+                    "score": -16.891695897090365
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": -15.780238725728125
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": -9.781656162688076
+                }
+            }
+        }
+    },
+    "BMP": {
+        "1d": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 6,
+                        "num_leaves": 50
+                    },
+                    "score": -2.3849075702728104
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 6,
+                        "n_estimators": 150
+                    },
+                    "score": -1.3871337116992106
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": -1.4189736725511266
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 6,
+                        "num_leaves": 50
+                    },
+                    "score": -2.33890070247613
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": -1.7766996494875889
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": -1.443153504184885
+                }
+            }
+        },
+        "3d": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 6,
+                        "num_leaves": 30
+                    },
+                    "score": -4.300064539941721
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 6,
+                        "n_estimators": 150
+                    },
+                    "score": -2.487220482759454
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": -2.214159365793542
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 3,
+                        "num_leaves": 20
+                    },
+                    "score": -4.175355718566228
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": -3.373290767246602
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": -1.9869380347957653
+                }
+            }
+        },
+        "1w": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 10,
+                        "num_leaves": 20
+                    },
+                    "score": -5.8074619908958995
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 6,
+                        "n_estimators": 150
+                    },
+                    "score": -5.350912263997798
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": -3.651755885102898
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 10,
+                        "num_leaves": 20
+                    },
+                    "score": -5.827545743756227
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": -2.7550782778797296
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": -3.377876908924523
+                }
+            }
+        },
+        "2w": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 10,
+                        "num_leaves": 20
+                    },
+                    "score": -11.42035046434473
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": -4.660447121627574
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": -5.405193820855698
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 6,
+                        "num_leaves": 20
+                    },
+                    "score": -10.986650613036785
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": -4.89825654882342
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": -5.20777220647042
+                }
+            }
+        }
+    },
+    "BTT": {
+        "1d": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 6,
+                        "num_leaves": 50
+                    },
+                    "score": 0.9601593555685458
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.9367606849334486
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.9600030390333738
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 10,
+                        "num_leaves": 50
+                    },
+                    "score": 0.9526280945629304
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.9479815369506231
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.9623335971017645
+                }
+            }
+        },
+        "3d": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 10,
+                        "num_leaves": 30
+                    },
+                    "score": 0.9067795518297161
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.8804297212864931
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.9100401519138387
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 10,
+                        "num_leaves": 20
+                    },
+                    "score": 0.8902697102630066
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.8775970809674348
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.9105367736544242
+                }
+            }
+        },
+        "1w": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 10,
+                        "num_leaves": 20
+                    },
+                    "score": 0.6426404244431021
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 6,
+                        "n_estimators": 150
+                    },
+                    "score": 0.35274070864749496
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.7060431623931607
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 6,
+                        "num_leaves": 20
+                    },
+                    "score": 0.6602964790488692
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.573720398508747
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.719426389144046
+                }
+            }
+        },
+        "2w": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 3,
+                        "num_leaves": 20
+                    },
+                    "score": 0.546569329100788
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 6,
+                        "n_estimators": 150
+                    },
+                    "score": 0.23880996307000513
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.6392033929316132
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 10,
+                        "num_leaves": 20
+                    },
+                    "score": 0.574907360039187
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 6,
+                        "n_estimators": 150
+                    },
+                    "score": 0.07777150709543446
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.635205470249685
+                }
+            }
+        }
+    },
+    "IJC": {
+        "1d": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 3,
+                        "num_leaves": 20
+                    },
+                    "score": 0.9435764907741424
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.8793450870847274
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.9347191668218233
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 3,
+                        "num_leaves": 20
+                    },
+                    "score": 0.9453430578344921
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.8839334088350275
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.9288028145829739
+                }
+            }
+        },
+        "3d": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 6,
+                        "num_leaves": 30
+                    },
+                    "score": 0.7294898670066849
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 6,
+                        "n_estimators": 150
+                    },
+                    "score": 0.4785608493250738
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.7408503913400829
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 6,
+                        "num_leaves": 30
+                    },
+                    "score": 0.7340707531577744
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 6,
+                        "n_estimators": 150
+                    },
+                    "score": 0.5215913007065185
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.7589480950084051
+                }
+            }
+        },
+        "1w": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 6,
+                        "num_leaves": 20
+                    },
+                    "score": 0.05776272268909299
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.05999005437641314
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.21179064073035803
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 6,
+                        "num_leaves": 20
+                    },
+                    "score": 0.048830347307405875
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.21277377215080318
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.12652818642345198
+                }
+            }
+        },
+        "2w": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 3,
+                        "num_leaves": 20
+                    },
+                    "score": 0.2312739216095178
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.9138035143257393
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.22012461755529142
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 3,
+                        "num_leaves": 20
+                    },
+                    "score": 0.19800065114548167
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.2173831068728885
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.22311773458801825
+                }
+            }
+        }
+    },
+    "BWE": {
+        "1d": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 6,
+                        "num_leaves": 20
+                    },
+                    "score": 0.906090757782153
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.9644702993771972
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.9638975679777206
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 10,
+                        "num_leaves": 20
+                    },
+                    "score": 0.9078664995729674
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.971586080604185
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.9557107060835494
+                }
+            }
+        },
+        "3d": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 10,
+                        "num_leaves": 20
+                    },
+                    "score": 0.7692327138612786
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 6,
+                        "n_estimators": 150
+                    },
+                    "score": 0.8969161710160605
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.9495964296749105
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 10,
+                        "num_leaves": 20
+                    },
+                    "score": 0.7738652306760254
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 6,
+                        "n_estimators": 150
+                    },
+                    "score": 0.8852060538358122
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.9421846726582814
+                }
+            }
+        },
+        "1w": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 3,
+                        "num_leaves": 20
+                    },
+                    "score": 0.01164076912411438
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.3877116711172611
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.5925091603910824
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 3,
+                        "num_leaves": 20
+                    },
+                    "score": 0.02791054901107759
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.5089458433229179
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.5891779823304452
+                }
+            }
+        },
+        "2w": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 3,
+                        "num_leaves": 20
+                    },
+                    "score": 0.16068109060460944
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.2955393031908249
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.22844936429188623
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 3,
+                        "num_leaves": 20
+                    },
+                    "score": 0.17340811442489756
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.6250565953144678
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.11201010411562562
+                }
+            }
+        }
+    },
+    "FCN": {
+        "1d": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 6,
+                        "num_leaves": 20
+                    },
+                    "score": 0.9771056901857648
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.9686187710461663
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.9738729719449055
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 10,
+                        "num_leaves": 30
+                    },
+                    "score": 0.9787324828947798
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.9694736037158289
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.9774392182871958
+                }
+            }
+        },
+        "3d": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 3,
+                        "num_leaves": 20
+                    },
+                    "score": 0.9030282681748533
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.8792264624453051
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.8883110514152237
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 3,
+                        "num_leaves": 20
+                    },
+                    "score": 0.9017659262067126
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.8680175396200915
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.8899886819210276
+                }
+            }
+        },
+        "1w": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 3,
+                        "num_leaves": 20
+                    },
+                    "score": 0.6792965173466118
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.594701018476888
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.700249335253494
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 3,
+                        "num_leaves": 20
+                    },
+                    "score": 0.6809810049713501
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.5990495085576022
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.6978738426581528
+                }
+            }
+        },
+        "2w": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 10,
+                        "num_leaves": 20
+                    },
+                    "score": 0.13766014301148755
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.1185866502276749
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.5385605163987992
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 10,
+                        "num_leaves": 20
+                    },
+                    "score": 0.15670382868726118
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.11874776809052356
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.510660043032349
+                }
+            }
+        }
+    },
+    "KDC": {
+        "1d": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 6,
+                        "num_leaves": 30
+                    },
+                    "score": 0.9867372269130402
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.9777464046920379
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.9821322050142441
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 10,
+                        "num_leaves": 50
+                    },
+                    "score": 0.9914588296844378
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.9821664855529253
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.9890478707593767
+                }
+            }
+        },
+        "3d": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 3,
+                        "num_leaves": 20
+                    },
+                    "score": 0.9526887785732432
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.9152747170549739
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.9483255994358619
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 10,
+                        "num_leaves": 20
+                    },
+                    "score": 0.9572283279375465
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.9398407808187824
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.9582870278793079
+                }
+            }
+        },
+        "1w": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 6,
+                        "num_leaves": 20
+                    },
+                    "score": 0.8547694081568553
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 6,
+                        "n_estimators": 150
+                    },
+                    "score": 0.7803681372869024
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.8781508147059744
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 10,
+                        "num_leaves": 20
+                    },
+                    "score": 0.8623931087228295
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 6,
+                        "n_estimators": 150
+                    },
+                    "score": 0.7480995935048901
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.8903889512020383
+                }
+            }
+        },
+        "2w": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 10,
+                        "num_leaves": 20
+                    },
+                    "score": 0.6067103779642522
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 6,
+                        "n_estimators": 150
+                    },
+                    "score": 0.29866004719459194
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.6174191423875268
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 10,
+                        "num_leaves": 20
+                    },
+                    "score": 0.6228693431159591
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 6,
+                        "n_estimators": 150
+                    },
+                    "score": 0.5321629125067648
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.6339271450638189
+                }
+            }
+        }
+    },
+    "DTL": {
+        "1d": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 10,
+                        "num_leaves": 20
+                    },
+                    "score": 0.9836992884716934
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 6,
+                        "n_estimators": 150
+                    },
+                    "score": 0.9786849234817177
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.9828997766727443
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 10,
+                        "num_leaves": 20
+                    },
+                    "score": 0.9836138139971285
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 6,
+                        "n_estimators": 150
+                    },
+                    "score": 0.979551183280116
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.9811908437669222
+                }
+            }
+        },
+        "3d": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 10,
+                        "num_leaves": 20
+                    },
+                    "score": 0.933545045002197
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.9179823347633059
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.9421793381927633
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 3,
+                        "num_leaves": 20
+                    },
+                    "score": 0.9424583699777817
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.9242462229733589
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.9418746452056919
+                }
+            }
+        },
+        "1w": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 6,
+                        "num_leaves": 20
+                    },
+                    "score": 0.7164654269383333
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 6,
+                        "n_estimators": 150
+                    },
+                    "score": 0.8114293152900679
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.8620003281958345
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 10,
+                        "num_leaves": 20
+                    },
+                    "score": 0.6885907538383413
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 6,
+                        "n_estimators": 150
+                    },
+                    "score": 0.8129187976346883
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.8484779018009149
+                }
+            }
+        },
+        "2w": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 3,
+                        "num_leaves": 20
+                    },
+                    "score": 0.49696615009516953
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.6442099303212164
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.7201349518172848
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 3,
+                        "num_leaves": 20
+                    },
+                    "score": 0.3666542407706612
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.5827426295756113
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.7395934827137093
+                }
+            }
+        }
+    },
+    "KDH": {
+        "1d": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 3,
+                        "num_leaves": 20
+                    },
+                    "score": 0.9589840128336307
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.9113519645497533
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.9475277968519271
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 3,
+                        "num_leaves": 20
+                    },
+                    "score": 0.9695210846933248
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.8684095929388902
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.9688880333868256
+                }
+            }
+        },
+        "3d": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 3,
+                        "num_leaves": 20
+                    },
+                    "score": 0.834129249545196
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.7631651673454409
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.7812062257557444
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 3,
+                        "num_leaves": 20
+                    },
+                    "score": 0.8553080527240241
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.7796148560419571
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.8257711900903475
+                }
+            }
+        },
+        "1w": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 3,
+                        "num_leaves": 20
+                    },
+                    "score": 0.25941834060497566
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.4602845873263477
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.5685069461374224
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 6,
+                        "num_leaves": 20
+                    },
+                    "score": 0.26380845005657436
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.49758986058059274
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.588241153080491
+                }
+            }
+        },
+        "2w": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 3,
+                        "num_leaves": 20
+                    },
+                    "score": 0.4967877512911334
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.16822797929061717
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.35553723366905454
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 3,
+                        "num_leaves": 20
+                    },
+                    "score": 0.4823749514092519
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.36004281102555913
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.393808136684895
+                }
+            }
+        }
+    },
+    "VPS": {
+        "1d": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 3,
+                        "num_leaves": 20
+                    },
+                    "score": 0.8740298772228468
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.8225457212000932
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.8707266298010412
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 3,
+                        "num_leaves": 20
+                    },
+                    "score": 0.8798914473308437
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.8336960705604577
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.8736914338749564
+                }
+            }
+        },
+        "3d": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 3,
+                        "num_leaves": 20
+                    },
+                    "score": 0.7540827005127565
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.6851265939968529
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.6656421258720685
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 3,
+                        "num_leaves": 20
+                    },
+                    "score": 0.7627458361026322
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.6884836086479572
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.6869772195497668
+                }
+            }
+        },
+        "1w": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 3,
+                        "num_leaves": 20
+                    },
+                    "score": 0.40525730794400283
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.4981912938292059
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.6196208084109798
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 10,
+                        "num_leaves": 20
+                    },
+                    "score": 0.09793251376426271
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.4566640925955423
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.6076813471692257
+                }
+            }
+        },
+        "2w": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 3,
+                        "num_leaves": 20
+                    },
+                    "score": 0.10374262842844821
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.19353590128356324
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.437692865609712
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 3,
+                        "num_leaves": 20
+                    },
+                    "score": 0.10662208983373889
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.3101714284405487
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.44468756328624115
+                }
+            }
+        }
+    },
+    "VRC": {
+        "1d": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 3,
+                        "num_leaves": 20
+                    },
+                    "score": 0.9853428716666228
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 6,
+                        "n_estimators": 150
+                    },
+                    "score": 0.9830730395399776
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.9859617965402897
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 3,
+                        "num_leaves": 20
+                    },
+                    "score": 0.9812594925832023
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.9758329543766762
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.9811848841342147
+                }
+            }
+        },
+        "3d": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 3,
+                        "num_leaves": 20
+                    },
+                    "score": 0.9251795789299603
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 6,
+                        "n_estimators": 150
+                    },
+                    "score": 0.918436521842722
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.9311062086083214
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 3,
+                        "num_leaves": 20
+                    },
+                    "score": 0.9164912946282786
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 6,
+                        "n_estimators": 150
+                    },
+                    "score": 0.9167216366153689
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.9249063346573078
+                }
+            }
+        },
+        "1w": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 3,
+                        "num_leaves": 20
+                    },
+                    "score": 0.8437308252233948
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.8332843789604274
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.8516522441568295
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 3,
+                        "num_leaves": 20
+                    },
+                    "score": 0.8348959045289858
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.8182008670730483
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.836865674099352
+                }
+            }
+        },
+        "2w": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 3,
+                        "num_leaves": 20
+                    },
+                    "score": 0.682412748570963
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.550897392200151
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.7655527139812335
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 3,
+                        "num_leaves": 20
+                    },
+                    "score": 0.6669843657299923
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.5750957928808359
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.7400357433643505
+                }
+            }
+        }
+    },
+    "KPF": {
+        "1d": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 3,
+                        "num_leaves": 20
+                    },
+                    "score": 0.06696247844615066
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.428524121601886
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.10851789318951299
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 3,
+                        "num_leaves": 20
+                    },
+                    "score": 0.1281691430092894
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.41113427612992526
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.09657398626016955
+                }
+            }
+        },
+        "3d": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 3,
+                        "num_leaves": 20
+                    },
+                    "score": 0.13431052637308105
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.13356012249185487
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.8146745426742379
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 3,
+                        "num_leaves": 20
+                    },
+                    "score": -1.250304265553448
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": -1.1216154365799995
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": -0.7948443826944491
+                }
+            }
+        },
+        "1w": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 3,
+                        "num_leaves": 20
+                    },
+                    "score": -2.2916410453081193
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 6,
+                        "n_estimators": 150
+                    },
+                    "score": -3.615706763122944
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": -1.1865884803569484
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 3,
+                        "num_leaves": 20
+                    },
+                    "score": -2.45014193725577
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 6,
+                        "n_estimators": 150
+                    },
+                    "score": -3.308725937189351
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": -1.2129443213923827
+                }
+            }
+        },
+        "2w": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 6,
+                        "num_leaves": 20
+                    },
+                    "score": -6.72617167678879
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": -8.222157328262798
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": -5.34962319698643
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 6,
+                        "num_leaves": 20
+                    },
+                    "score": -6.5951234677115895
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": -6.621503345376804
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": -4.956663394685196
+                }
+            }
+        }
+    },
+    "DRL": {
+        "1d": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 10,
+                        "num_leaves": 20
+                    },
+                    "score": 0.7720480627759506
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.7478639116374641
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.7655823760528919
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 10,
+                        "num_leaves": 20
+                    },
+                    "score": 0.7369781412086208
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.6350252731992858
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.7329115483290581
+                }
+            }
+        },
+        "3d": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 6,
+                        "num_leaves": 20
+                    },
+                    "score": 0.22183283126410724
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 6,
+                        "n_estimators": 150
+                    },
+                    "score": 0.5122142153875568
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.7384720493713047
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 3,
+                        "num_leaves": 20
+                    },
+                    "score": 0.19278561361345004
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 6,
+                        "n_estimators": 150
+                    },
+                    "score": 0.6545761178918708
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.7597119302280242
+                }
+            }
+        },
+        "1w": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 6,
+                        "num_leaves": 20
+                    },
+                    "score": 0.0782518000647543
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.2907406951342876
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.5328757003693472
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 6,
+                        "num_leaves": 20
+                    },
+                    "score": 0.11988731159588695
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.3959007135903114
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.5980619529518716
+                }
+            }
+        },
+        "2w": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 3,
+                        "num_leaves": 20
+                    },
+                    "score": -1.9872628489291215
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.18344397378045263
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.3632704652290678
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 6,
+                        "num_leaves": 20
+                    },
+                    "score": -2.3508243242976223
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": -0.06719228354598994
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.33437550119897375
+                }
+            }
+        }
+    },
+    "IDI": {
+        "1d": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 3,
+                        "num_leaves": 20
+                    },
+                    "score": 0.9794872628502199
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 6,
+                        "n_estimators": 150
+                    },
+                    "score": 0.9707119172522526
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.9690337403362596
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 6,
+                        "num_leaves": 30
+                    },
+                    "score": 0.965651117923972
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 6,
+                        "n_estimators": 150
+                    },
+                    "score": 0.9540355339730909
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.9720660525321636
+                }
+            }
+        },
+        "3d": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 3,
+                        "num_leaves": 20
+                    },
+                    "score": 0.9171183917030055
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.8963780771050073
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.8600359647961604
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 3,
+                        "num_leaves": 20
+                    },
+                    "score": 0.9155211456937004
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.8700268750096372
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.8673883473309967
+                }
+            }
+        },
+        "1w": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 3,
+                        "num_leaves": 20
+                    },
+                    "score": 0.5674308660538856
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.5435570856956567
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.29326219481850957
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 3,
+                        "num_leaves": 20
+                    },
+                    "score": 0.5665580708716262
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.6155277756030775
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.2545023010042674
+                }
+            }
+        },
+        "2w": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 3,
+                        "num_leaves": 20
+                    },
+                    "score": 0.2316486226055123
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.15902761018717548
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.02294768605724995
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 6,
+                        "num_leaves": 20
+                    },
+                    "score": 0.18280251144803605
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.1950684647447872
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.028223721404592395
+                }
+            }
+        }
+    },
+    "DSN": {
+        "1d": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 10,
+                        "num_leaves": 20
+                    },
+                    "score": -3.151475001452707
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": -1.5918291412002237
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": -1.8549779760455087
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 6,
+                        "num_leaves": 50
+                    },
+                    "score": -2.9428119390839855
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": -2.0175804702518585
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": -1.95664162357687
+                }
+            }
+        },
+        "3d": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 10,
+                        "num_leaves": 20
+                    },
+                    "score": -7.361617887640241
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": -5.410656497255144
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": -6.155035639596914
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 10,
+                        "num_leaves": 20
+                    },
+                    "score": -5.573360951893511
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": -4.174369205173284
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": -5.598246773622912
+                }
+            }
+        },
+        "1w": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 10,
+                        "num_leaves": 20
+                    },
+                    "score": -11.644907453869195
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": -10.66519478868666
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": -11.571218908326674
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 10,
+                        "num_leaves": 20
+                    },
+                    "score": -10.4541592081213
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": -11.349590676474493
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": -9.728430349486581
+                }
+            }
+        },
+        "2w": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 10,
+                        "num_leaves": 20
+                    },
+                    "score": -19.041458557580924
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": -10.69036466503616
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": -17.444590780407655
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 10,
+                        "num_leaves": 20
+                    },
+                    "score": -17.8629256621662
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 6,
+                        "n_estimators": 150
+                    },
+                    "score": -14.516105505224829
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": -16.11092160074179
+                }
+            }
+        }
+    },
+    "OPC": {
+        "1d": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 10,
+                        "num_leaves": 20
+                    },
+                    "score": 0.7650944569984844
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 6,
+                        "n_estimators": 150
+                    },
+                    "score": 0.6510622895180894
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.7351963436141351
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 10,
+                        "num_leaves": 30
+                    },
+                    "score": 0.7416355020742127
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.716402890499193
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.6775833073383879
+                }
+            }
+        },
+        "3d": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 6,
+                        "num_leaves": 50
+                    },
+                    "score": -1.7127110320255223
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 6,
+                        "n_estimators": 150
+                    },
+                    "score": -1.3048075625148905
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": -1.0799852545159387
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 10,
+                        "num_leaves": 50
+                    },
+                    "score": -2.0391538071257154
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 6,
+                        "n_estimators": 150
+                    },
+                    "score": -3.112506669937984
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": -1.162563899292667
+                }
+            }
+        },
+        "1w": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 10,
+                        "num_leaves": 20
+                    },
+                    "score": -4.2563038577507495
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 6,
+                        "n_estimators": 150
+                    },
+                    "score": -6.669485704537733
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": -1.8212821521060074
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 3,
+                        "num_leaves": 20
+                    },
+                    "score": -3.8619290959914405
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 6,
+                        "n_estimators": 150
+                    },
+                    "score": -5.605335092601362
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": -1.885488101805063
+                }
+            }
+        },
+        "2w": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 10,
+                        "num_leaves": 20
+                    },
+                    "score": -5.346586440735278
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 6,
+                        "n_estimators": 150
+                    },
+                    "score": -10.159052166289568
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": -5.147144954067313
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 10,
+                        "num_leaves": 20
+                    },
+                    "score": -5.100232023947543
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 6,
+                        "n_estimators": 150
+                    },
+                    "score": -8.237916669527266
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": -4.693218901769756
+                }
+            }
+        }
+    },
+    "C32": {
+        "1d": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 6,
+                        "num_leaves": 50
+                    },
+                    "score": 0.9085352427119952
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.8950335202349545
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.9062025458255693
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 10,
+                        "num_leaves": 20
+                    },
+                    "score": 0.9385565387497732
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.9028853972790105
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.9284219209540716
+                }
+            }
+        },
+        "3d": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 3,
+                        "num_leaves": 20
+                    },
+                    "score": 0.8629393068715125
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 6,
+                        "n_estimators": 150
+                    },
+                    "score": 0.8339803918959976
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.8543309488704032
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 10,
+                        "num_leaves": 20
+                    },
+                    "score": 0.8337769069345524
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.5914076335702538
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.8744510321584231
+                }
+            }
+        },
+        "1w": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 6,
+                        "num_leaves": 20
+                    },
+                    "score": -0.058814049779626565
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 6,
+                        "n_estimators": 150
+                    },
+                    "score": -0.8699142928648058
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": -0.23888312174166604
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 6,
+                        "num_leaves": 20
+                    },
+                    "score": 0.25331504235939994
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 6,
+                        "n_estimators": 150
+                    },
+                    "score": -0.454971124915337
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": -0.009428328385235663
+                }
+            }
+        },
+        "2w": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 6,
+                        "num_leaves": 20
+                    },
+                    "score": -0.2649998818212791
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.03577370058958429
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.3405730767223858
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 10,
+                        "num_leaves": 20
+                    },
+                    "score": -0.7288610951312229
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 6,
+                        "n_estimators": 150
+                    },
+                    "score": -0.24743821259579035
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.17321294418601574
+                }
+            }
+        }
+    },
+    "FDC": {
+        "1d": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 3,
+                        "num_leaves": 20
+                    },
+                    "score": 0.9437553896698053
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.9333828071897013
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.9374154728019584
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 3,
+                        "num_leaves": 20
+                    },
+                    "score": 0.9361847649352673
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.9273603455854958
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.9310875918388402
+                }
+            }
+        },
+        "3d": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 3,
+                        "num_leaves": 20
+                    },
+                    "score": 0.8411791792289804
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.7803205594446228
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.8587921157965712
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 3,
+                        "num_leaves": 20
+                    },
+                    "score": 0.8235683243908277
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.7824335005795124
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.8425918187688228
+                }
+            }
+        },
+        "1w": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 3,
+                        "num_leaves": 20
+                    },
+                    "score": 0.6177096932742636
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 6,
+                        "n_estimators": 150
+                    },
+                    "score": 0.6214152031936839
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.5982113548513348
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 3,
+                        "num_leaves": 20
+                    },
+                    "score": 0.5850434965135867
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 6,
+                        "n_estimators": 150
+                    },
+                    "score": 0.5136776977261833
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.5764326560476106
+                }
+            }
+        },
+        "2w": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 3,
+                        "num_leaves": 20
+                    },
+                    "score": 0.27033061317677676
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.3241396472156487
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.1977230842029225
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 3,
+                        "num_leaves": 20
+                    },
+                    "score": 0.21918137760116907
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.25864403960298465
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.2179995355721095
+                }
+            }
+        }
+    },
+    "BTP": {
+        "1d": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 10,
+                        "num_leaves": 50
+                    },
+                    "score": 0.6381971946959715
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.6950144694254156
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.6809829129873538
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 10,
+                        "num_leaves": 50
+                    },
+                    "score": 0.6639694153988466
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.6373210688222907
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.6777615084860295
+                }
+            }
+        },
+        "3d": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 6,
+                        "num_leaves": 30
+                    },
+                    "score": 0.17458207412574034
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.27464280264810326
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.5067261882331249
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 3,
+                        "num_leaves": 20
+                    },
+                    "score": 0.221940940954929
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.40652147061845545
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.482683441904723
+                }
+            }
+        },
+        "1w": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 10,
+                        "num_leaves": 20
+                    },
+                    "score": -0.21483221328940183
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.25457733332482
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.30403171089778047
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 10,
+                        "num_leaves": 20
+                    },
+                    "score": -0.22659045746870388
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.08149395788831237
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.2939258865246137
+                }
+            }
+        },
+        "2w": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 10,
+                        "num_leaves": 20
+                    },
+                    "score": -0.8898700002411317
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": -0.4146018482464364
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": -0.3411192505663254
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 10,
+                        "num_leaves": 20
+                    },
+                    "score": -0.895874586192686
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": -0.8133995486075882
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": -0.29827916624332085
+                }
+            }
+        }
+    },
+    "FIT": {
+        "1d": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 10,
+                        "num_leaves": 20
+                    },
+                    "score": 0.9544210237237059
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.8597524129114469
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.946686953287526
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 3,
+                        "num_leaves": 20
+                    },
+                    "score": 0.960546466744346
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.9379952372689809
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.960850718769404
+                }
+            }
+        },
+        "3d": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 3,
+                        "num_leaves": 20
+                    },
+                    "score": 0.833272239753321
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.7361573034966811
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.7708982408861642
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 3,
+                        "num_leaves": 20
+                    },
+                    "score": 0.825175935824485
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.7139942405140851
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.7765667301894046
+                }
+            }
+        },
+        "1w": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 3,
+                        "num_leaves": 20
+                    },
+                    "score": 0.6118778986936537
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.2904027950889101
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.5435004534604337
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 3,
+                        "num_leaves": 20
+                    },
+                    "score": 0.6412715601362386
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.32812487548977387
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.4723111065187353
+                }
+            }
+        },
+        "2w": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 3,
+                        "num_leaves": 20
+                    },
+                    "score": -0.5833484002783953
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": -2.188298763740773
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": -0.4551221958852847
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 6,
+                        "num_leaves": 20
+                    },
+                    "score": -1.2660189542985916
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": -2.0782235849042783
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": -0.5342499071498388
+                }
+            }
+        }
+    },
+    "KHP": {
+        "1d": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 10,
+                        "num_leaves": 20
+                    },
+                    "score": 0.9682430083241045
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.9499914183398502
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.979080456540959
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 10,
+                        "num_leaves": 50
+                    },
+                    "score": 0.9647246984631369
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.9478540296360625
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.9735368415591726
+                }
+            }
+        },
+        "3d": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 10,
+                        "num_leaves": 20
+                    },
+                    "score": 0.7346664928403058
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.8086532164017808
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.8060791034865973
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 10,
+                        "num_leaves": 30
+                    },
+                    "score": 0.776555700365574
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.7548314479607203
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.8134112852211473
+                }
+            }
+        },
+        "1w": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 10,
+                        "num_leaves": 20
+                    },
+                    "score": 0.7608070757504186
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 6,
+                        "n_estimators": 150
+                    },
+                    "score": 0.5197003827218492
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.6355511105312308
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 10,
+                        "num_leaves": 20
+                    },
+                    "score": 0.7588546295818379
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.43946375634273727
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.5583667169032913
+                }
+            }
+        },
+        "2w": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 3,
+                        "num_leaves": 20
+                    },
+                    "score": 0.31693519696846106
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 6,
+                        "n_estimators": 150
+                    },
+                    "score": -0.9527791056597532
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": -0.2677706642324025
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 6,
+                        "num_leaves": 20
+                    },
+                    "score": 0.33100566401802856
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 6,
+                        "n_estimators": 150
+                    },
+                    "score": -0.6483395626023449
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": -0.6526869258494103
+                }
+            }
+        }
+    },
+    "DRC": {
+        "1d": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 10,
+                        "num_leaves": 50
+                    },
+                    "score": 0.3440051372452252
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 6,
+                        "n_estimators": 150
+                    },
+                    "score": -0.0012191958324667684
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.534735868395994
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 10,
+                        "num_leaves": 50
+                    },
+                    "score": 0.24596042603849744
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.20132124603388057
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.3960989138756079
+                }
+            }
+        },
+        "3d": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 10,
+                        "num_leaves": 20
+                    },
+                    "score": -0.7212437798700284
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": -0.6988324254107467
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": -0.4362950067755007
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 10,
+                        "num_leaves": 20
+                    },
+                    "score": -0.7782471672916906
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": -0.8045097702497801
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": -0.548527772248381
+                }
+            }
+        },
+        "1w": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 10,
+                        "num_leaves": 20
+                    },
+                    "score": -1.751149177703681
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": -2.4234671759405
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": -1.40750834983933
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 10,
+                        "num_leaves": 20
+                    },
+                    "score": -1.7027392356417126
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": -2.666933767314657
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": -1.4839012352384562
+                }
+            }
+        },
+        "2w": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 10,
+                        "num_leaves": 20
+                    },
+                    "score": -5.2328756961403355
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 6,
+                        "n_estimators": 150
+                    },
+                    "score": -8.426585498379113
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": -4.2917565479144315
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 6,
+                        "num_leaves": 20
+                    },
+                    "score": -4.999581538359398
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 6,
+                        "n_estimators": 150
+                    },
+                    "score": -8.093385430343849
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": -4.060908573595075
+                }
+            }
+        }
+    },
+    "DVP": {
+        "1d": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 6,
+                        "num_leaves": 50
+                    },
+                    "score": -3.6351071294445623
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": -4.415237225478751
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": -2.056831685478978
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 10,
+                        "num_leaves": 50
+                    },
+                    "score": -3.3205941335953826
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": -4.001531181615311
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": -1.3624201837571537
+                }
+            }
+        },
+        "3d": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 6,
+                        "num_leaves": 50
+                    },
+                    "score": -6.9844370539865
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": -3.156306334487052
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": -2.6806380658641684
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 10,
+                        "num_leaves": 50
+                    },
+                    "score": -6.945507655043146
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 6,
+                        "n_estimators": 150
+                    },
+                    "score": -3.11789232951953
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": -2.428980637865238
+                }
+            }
+        },
+        "1w": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 6,
+                        "num_leaves": 20
+                    },
+                    "score": -7.993827578600893
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 6,
+                        "n_estimators": 150
+                    },
+                    "score": -2.8468539215185347
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": -3.7320437816715364
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 6,
+                        "num_leaves": 20
+                    },
+                    "score": -8.166883206864075
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 6,
+                        "n_estimators": 150
+                    },
+                    "score": -4.033448535454968
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": -3.7488260009353436
+                }
+            }
+        },
+        "2w": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 10,
+                        "num_leaves": 20
+                    },
+                    "score": -14.645155821244614
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 6,
+                        "n_estimators": 150
+                    },
+                    "score": -5.328407249454373
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": -6.896799524635665
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 6,
+                        "num_leaves": 20
+                    },
+                    "score": -14.754962594406281
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 6,
+                        "n_estimators": 150
+                    },
+                    "score": -5.510797890059155
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": -6.6556994357174695
+                }
+            }
+        }
+    },
+    "PAN": {
+        "1d": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 10,
+                        "num_leaves": 50
+                    },
+                    "score": 0.9645407979883768
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.9593607906514522
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.9663296280175147
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 10,
+                        "num_leaves": 50
+                    },
+                    "score": 0.9757536369461571
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.9680428025863713
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.9739713897256037
+                }
+            }
+        },
+        "3d": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 10,
+                        "num_leaves": 50
+                    },
+                    "score": 0.8521167796464892
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.8500469936520068
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.8594556705987133
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 10,
+                        "num_leaves": 50
+                    },
+                    "score": 0.8612632375776679
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.8708997095028093
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.8758121198049059
+                }
+            }
+        },
+        "1w": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 6,
+                        "num_leaves": 20
+                    },
+                    "score": 0.7739317206727674
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 6,
+                        "n_estimators": 150
+                    },
+                    "score": 0.7147860615629489
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.774392843682889
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 10,
+                        "num_leaves": 20
+                    },
+                    "score": 0.7730253696484908
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 6,
+                        "n_estimators": 150
+                    },
+                    "score": 0.7049372800503639
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.7920430897389487
+                }
+            }
+        },
+        "2w": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 6,
+                        "num_leaves": 20
+                    },
+                    "score": -0.21444477773282977
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 6,
+                        "n_estimators": 150
+                    },
+                    "score": -0.2732662842001401
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.306081873812001
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 6,
+                        "num_leaves": 20
+                    },
+                    "score": -0.19607156313865093
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 6,
+                        "n_estimators": 150
+                    },
+                    "score": 0.3321365140179692
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.33066565436510176
+                }
+            }
+        }
+    },
+    "VPD": {
+        "1d": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 6,
+                        "num_leaves": 30
+                    },
+                    "score": -1.6561125325848827
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": -1.0633810965867605
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": -0.7196794364645951
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 10,
+                        "num_leaves": 50
+                    },
+                    "score": -1.364970424345354
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": -1.950053629986681
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": -0.8073782541377754
+                }
+            }
+        },
+        "3d": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 3,
+                        "num_leaves": 20
+                    },
+                    "score": -3.427892766421885
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": -3.0979454206501904
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": -3.0902229075152423
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 3,
+                        "num_leaves": 20
+                    },
+                    "score": -3.256466038769098
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": -3.3064467270761915
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": -3.2051462815995473
+                }
+            }
+        },
+        "1w": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 10,
+                        "num_leaves": 20
+                    },
+                    "score": -5.232491803573713
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": -3.312484664803419
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": -4.37972401753171
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 10,
+                        "num_leaves": 20
+                    },
+                    "score": -5.113738377478696
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": -4.0592407227179415
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": -4.49162529480339
+                }
+            }
+        },
+        "2w": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 6,
+                        "num_leaves": 20
+                    },
+                    "score": -7.26220541383001
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 6,
+                        "n_estimators": 150
+                    },
+                    "score": -10.590932616490532
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": -7.34416808129502
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 6,
+                        "num_leaves": 20
+                    },
+                    "score": -7.35518360874136
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 6,
+                        "n_estimators": 150
+                    },
+                    "score": -9.957693941834863
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": -6.8888824341339
+                }
+            }
+        }
+    },
+    "VSC": {
+        "1d": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 6,
+                        "num_leaves": 50
+                    },
+                    "score": 0.981493892043717
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 6,
+                        "n_estimators": 150
+                    },
+                    "score": 0.9726980576365214
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.9809691953802916
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 6,
+                        "num_leaves": 50
+                    },
+                    "score": 0.980792330088775
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.9765977855395667
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.9823376946377094
+                }
+            }
+        },
+        "3d": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 10,
+                        "num_leaves": 50
+                    },
+                    "score": 0.9121264964770959
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 6,
+                        "n_estimators": 150
+                    },
+                    "score": 0.8983516558807095
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.89933733537085
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 10,
+                        "num_leaves": 50
+                    },
+                    "score": 0.920481087229366
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 6,
+                        "n_estimators": 150
+                    },
+                    "score": 0.8289077226733825
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.8922751792487078
+                }
+            }
+        },
+        "1w": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 10,
+                        "num_leaves": 20
+                    },
+                    "score": 0.7878167265358975
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.6426498696724021
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.779355986935318
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 10,
+                        "num_leaves": 20
+                    },
+                    "score": 0.8144365369722544
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 6,
+                        "n_estimators": 150
+                    },
+                    "score": 0.45788038657585384
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.7791822635968821
+                }
+            }
+        },
+        "2w": {
+            "middle_high_low": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 10,
+                        "num_leaves": 20
+                    },
+                    "score": 0.5478806683521953
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 6,
+                        "n_estimators": 150
+                    },
+                    "score": 0.30387933095245334
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.5881163847033599
+                }
+            },
+            "middle_open_close": {
+                "LightGBM": {
+                    "params": {
+                        "max_depth": 10,
+                        "num_leaves": 20
+                    },
+                    "score": 0.5391664449497023
+                },
+                "XGBoost": {
+                    "params": {
+                        "max_depth": 3,
+                        "n_estimators": 150
+                    },
+                    "score": 0.35537171271024615
+                },
+                "RandomForest": {
+                    "params": {
+                        "n_estimators": 100
+                    },
+                    "score": 0.5569021291215953
+                }
+            }
+        }
+    }
+}
